@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KataPotterBookTest", "KataPotterBookTest\KataPotterBookTest.csproj", "{3D03E61C-C7FD-4EE0-A890-D1A517AF5085}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KataPotterBook", "KataPotterBook\KataPotterBook.csproj", "{2511596F-DF22-452D-B7ED-19F29C9506AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D03E61C-C7FD-4EE0-A890-D1A517AF5085}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D03E61C-C7FD-4EE0-A890-D1A517AF5085}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D03E61C-C7FD-4EE0-A890-D1A517AF5085}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D03E61C-C7FD-4EE0-A890-D1A517AF5085}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2511596F-DF22-452D-B7ED-19F29C9506AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2511596F-DF22-452D-B7ED-19F29C9506AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2511596F-DF22-452D-B7ED-19F29C9506AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2511596F-DF22-452D-B7ED-19F29C9506AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1516189A-894D-4805-9D13-020C181BDAD8}
+	EndGlobalSection
+EndGlobal
